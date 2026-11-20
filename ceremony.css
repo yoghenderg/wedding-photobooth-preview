@@ -98,3 +98,5 @@ dialog{overscroll-behavior:contain}
 header .seal{padding:5px 4px;line-height:1.15}
 
 .signin{padding:32px;background:#fff8e8;border-radius:24px}.signin input{display:block;margin:6px auto 16px;padding:12px;width:min(100%,320px);font:inherit}.signin label{display:block}
+
+body.shooting #private-app>header{display:none}
